@@ -68,4 +68,5 @@ set whichwrap=b,s,h,l,<,>,[,]
 " 構文毎に文字色を変化させる
 syntax on
 
-
+set background=dark
+colorscheme elflord
